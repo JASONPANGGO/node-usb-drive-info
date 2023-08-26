@@ -1,0 +1,8 @@
+{
+  "name": "node-usb-drive-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JASONPANGGO/node-usb-drive-info.git",
+  "author": "pengzihao.pzh <pengzihao.pzh@alibaba-inc.com>",
+  "license": "MIT"
+}
